@@ -1,4 +1,4 @@
-### EX NO : 09
+### EXPERIMENT NO : 09
 ### DATE  : 23.05.2022
 # <p align="center"> KNN CLASSIFICATION ALGORITHM </p>
 ## Aim:
